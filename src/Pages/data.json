@@ -1,0 +1,101 @@
+[
+    {
+       "id": 1,
+       "url" : "https://www.bigbasket.com/media/uploads/p/m/10000148-2_1-fresho-onion.jpg",
+       "category" : "Vegetable",
+       "title" : "Onion/Solanum lycopersicum",
+       "actualPrice" :38,
+       "pricePerKg" : 26
+   
+   }, 
+
+    {
+       "id": 2,
+       "url" : "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/the_health_benefits_of_tomatoes_slideshow/650x350_the_health_benefits_of_tomatoes_slideshow.jpg",
+       "category" : "Vegetable",
+       "title" : "Tomato/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {    
+       "id": 3,
+       "url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/are-potatoes-healthy-1570222022.jpg?crop=1.00xw:0.752xh;0.00160xw,0.248xh&resize=1200:*",
+       "category" : "Vegetable",
+       "title" : "Potato/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {
+       "id": 4,
+       "url" : "https://www.bigbasket.com/media/uploads/p/m/10000148-2_1-fresho-onion.jpg",
+       "category" : "Vegetable",
+       "title" : "Tomato/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {
+       "id": 5,
+       "url" : "https://5.imimg.com/data5/PU/LG/MY-52406801/lady-finger-500x500.jpg",
+       "category" : "Vegetable",
+       "title" : "Ladys Finger/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {   
+       "id": 6,
+       "url" : "https://m.media-amazon.com/images/I/51VV-ynVu1L._SL1003_.jpg",
+       "category" : "Vegetable",
+       "title" : "Brinjal/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26 
+   
+   },
+
+   {
+       "id": 7,
+       "url" : "https://hips.hearstapps.com/ghk.h-cdn.co/assets/18/09/1519672422-carrots.jpg",
+       "category" : "Vegetable",
+       "title" : "Carrot/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {   
+       "id": 8,
+       "url" : "https://i2.wp.com/kashmirlife.net/wp-content/uploads/2018/09/beetroot.jpg?fit=1107%2C800&ssl=1",
+       "category" : "Vegetable",
+       "title" : "Beetroot/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {
+       "id": 9,
+       "url" : "https://www.gardeningknowhow.com/wp-content/uploads/2020/03/primo-vantage-400x350.jpg",
+       "category" : "Vegetable",
+       "title" : "Cabbage/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   },
+
+   {
+       "id": 10,
+       "url" : "https://static.toiimg.com/thumb/msid-71233243,imgsize-562395,width-800,height-600,resizemode-75/71233243.jpg",
+       "category" : "Vegetable",
+       "title" : "Beans/Solanum lycopersicum",
+       "actualPrice":38,
+       "pricePerKg" : 26
+   
+   }   
+]
